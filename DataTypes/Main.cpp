@@ -11,6 +11,7 @@ int main()
 	std::cout << "float: " << sizeof(float) << " bytes" << std::endl;
 	std::cout << "double: " << sizeof(double) << " bytes" << std::endl;
 	std::cout << "short: " << sizeof(short) << " bytes" << std::endl;
+	std::cout << "bool: " << sizeof(bool) << " bytes" << std::endl;
 	std::cout << "long: " << sizeof(long) << " bytes" << std::endl;
 	std::cout << "long long: " << sizeof(long long) << " bytes" << std::endl;
 	std::cout << "size_t: " << sizeof(size_t) << " bytes" << std::endl;
